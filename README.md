@@ -1,7 +1,5 @@
 # Salut ! 👋, Je suis **Daryl Avril** - Développeur Web Junior
 
----
-
 Je suis étudiant en **développement web**, passionné par le **front-end** et en train d’évoluer vers un profil **full-stack**.  
 J’aime créer des applications interactives avec **React** et apprendre les bonnes pratiques du développement web.
 
