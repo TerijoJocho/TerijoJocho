@@ -14,8 +14,6 @@ J’aime créer des applications interactives avec **React** et apprendre les bo
   **React, TypeScript, Node.js, Express, NestJS**
 - 👥 Ouvert aux collaborations — **recherche un stage ou une alternance**
 
----
-
 ## 🛠️ Compétences techniques
 
 <p align="left">
@@ -31,8 +29,6 @@ J’aime créer des applications interactives avec **React** et apprendre les bo
   <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" width="36"/></a>
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" width="36"/></a>
 </p>
-
----
 
 ## 🔗 Réseaux
 
