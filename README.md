@@ -5,8 +5,10 @@ J’aime créer des applications interactives avec **React** et apprendre les bo
 
 - 🌍 Basé en **Île-de-France**
 - ✉️ Contact : [daril.avril@gmail.com](mailto:daril.avril@gmail.com)
-- 🚧 Projet en cours :  
+- 🚧 Projet en cours :
+  
   **Site de réservation de rendez-vous** → [YohlieNails](http://yohlie-nails.netlify.app/)
+  
   **Site de jeu d'échec en ligne**
 - 🧠 Technologies étudiées :  
   **React, TypeScript, Node.js, Express, NestJS**
